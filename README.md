@@ -5,4 +5,4 @@ This website is created using **Django** and the database implemented is **Postg
 
 You can view the website at [MuzikMania](https://muzikmania.herokuapp.com).  
 
-![Homepage](https://github.com/asbapat/MuzikMania/blob/master/Home.PNG)
+![Homepage](https://github.com/asbapat/MuzikMania/blob/master/MuzikMania.png)
